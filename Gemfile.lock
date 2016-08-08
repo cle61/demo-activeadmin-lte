@@ -17,8 +17,9 @@ GIT
       sass-rails
       sprockets (< 4.1)
 
-PATH
-  remote: ../activeadmin-lte
+GIT
+  remote: https://github.com/cle61/activeadmin-lte
+  revision: 69a4fc7e401341b99ef8fb1681f5e9b8a33f6ce9
   specs:
     activeadmin-lte (0.0.1)
       awesome_print

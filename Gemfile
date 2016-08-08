@@ -25,10 +25,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'devise'
 gem 'activeadmin', github: 'activeadmin'
-#gem "activeadmin-lte", git: "https://github.com/CapSens/activeadmin-lte"
-#gem "activeadmin-lte", github: "cle61/activeadmin-lte"
-#gem "activeadmin-lte", git: "https://github.com/CapSens/activeadmin-lte", branch: "Armand"
-gem "activeadmin-lte", path: "../activeadmin-lte", branch: "Armand"
+gem "activeadmin-lte", git: "https://github.com/cle61/activeadmin-lte"
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
