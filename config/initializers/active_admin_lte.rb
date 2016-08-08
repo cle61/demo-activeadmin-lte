@@ -1,0 +1,1 @@
+ActiveAdmin::LTE.configure.skin='red'
